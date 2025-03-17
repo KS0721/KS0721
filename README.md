@@ -7,7 +7,7 @@
 ![AI](https://img.shields.io/badge/AI-4B8BBE?style=flat-square&logo=ai&logoColor=white)
 
 
-현재 사용중인 프로그램
+현재 사용중인 프로그램  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 현재 작업 중  
