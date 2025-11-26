@@ -32,7 +32,7 @@
 ### ✨ 주요 프로젝트 경험
 
 | 프로젝트명 | 요약 및 경험 내용 | 링크 |
-| :--- | :--- | :--- |
+| :---: | :--- | :---: |
 | **Python-Face-Physiognomy-Analysis** | **MediaPipe와 OpenCV**를 활용하여 얼굴 특징점을 감지하고 **파이썬 GUI(Tkinter)** 환경에서 초/중/말년 운세를 분석하는 Computer Vision 학습 프로젝트입니다. **실시간 데이터 처리** 및 **규칙 기반 로직 구현** 경험을 쌓았습니다. | [저장소 바로가기](https://github.com/KS0721/Python-Face-Physiognomy-Analysis) |
 
 ### 🚧 다음 작업 계획
@@ -46,4 +46,6 @@
 **함께 성장하고 새로운 도전을 함께할 기회에 언제나 열려 있습니다!**
 
 [![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:당신의_이메일_주소를_여기에_입력하세요)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com) 
+<br>
+Naver 메일: `rlarltjd721@naver.com`
