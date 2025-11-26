@@ -45,11 +45,6 @@
 
 **함께 성장하고 새로운 도전을 함께할 기회에 언제나 열려 있습니다!**
 
-<p align="center">
-  [![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721) 
-  &nbsp;&nbsp;&nbsp;
-  
-  <br><br> <a href="mailto:kisong0721@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-</p>
+[![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com) 
+<br>
