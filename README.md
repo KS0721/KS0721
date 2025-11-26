@@ -11,17 +11,17 @@
 ### 💡 프로그래밍 언어 및 플랫폼
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=android-studio&logoColor=white">
 </p>
 
 ### 🤖 AI/LLM 활용 및 도구
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini-7952B3?style=flat-square&logo=google&logoColor=white">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-40A99E?style=flat-square&logo=openai&logoColor=white">&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Claude-F68600?style=flat-square&logo=anthropic&logoColor=white">&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gemini-7952B3?style=flat-square&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-40A99E?style=flat-square&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-F68600?style=flat-square&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 </p>
 
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com) 
-  &nbsp;&nbsp;&nbsp;
-  [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logoColor=white)](mailto:rlarltjd721@naver.com)
+  <a href="mailto:kisong0721@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
 </p>
