@@ -29,15 +29,15 @@
 
 ## 💻 현재 작업 중 (Current Focus)
 
-### 🚧 진행 중인 프로젝트
-* **Android 앱 개발:** Gemini 등 LLM을 활용하여 특정 기능을 수행하는 모바일 애플리케이션을 **Android Studio** 환경에서 개발하고 있습니다.
-* **디자인 학습:** 앱의 UI/UX 완성도를 높이기 위해 **Figma**를 익히고 있습니다.
+### ✨ 주요 프로젝트 경험
 
-### 🌟 대표 포트폴리오 프로젝트
-
-| 프로젝트명 | 요약 | 링크 |
+| 프로젝트명 | 요약 및 경험 내용 | 링크 |
 | :--- | :--- | :--- |
-| **Python-Face-Physiognomy-Analysis** | MediaPipe와 OpenCV를 활용한 데스크톱 관상 분석 GUI 앱 구현 (초/중/말년 운세) | [저장소 바로가기](https://github.com/KS0721/Python-Face-Physiognomy-Analysis) |
+| **Python-Face-Physiognomy-Analysis** | **MediaPipe와 OpenCV**를 활용하여 얼굴 특징점을 감지하고 **파이썬 GUI(Tkinter)** 환경에서 초/중/말년 운세를 분석하는 Computer Vision 학습 프로젝트입니다. **실시간 데이터 처리** 및 **규칙 기반 로직 구현** 경험을 쌓았습니다. | [저장소 바로가기](https://github.com/KS0721/Python-Face-Physiognomy-Analysis) |
+
+### 🚧 다음 작업 계획
+* **Android 앱 개발:** LLM(Gemini)을 활용하여 특정 기능을 수행하는 모바일 애플리케이션을 **Android Studio** 환경에서 개발하고 있습니다.
+* **디자인 학습:** 앱의 UI/UX 완성도를 높이기 위해 **Figma**를 익히고 있습니다.
 
 ---
 
