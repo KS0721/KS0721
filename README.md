@@ -47,7 +47,9 @@
 
 <p align="center">
   [![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721) 
-  &nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com) 
   &nbsp;&nbsp;&nbsp;
   [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logoColor=white)](mailto:rlarltjd721@naver.com)
