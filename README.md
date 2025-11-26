@@ -45,7 +45,10 @@
 
 **함께 성장하고 새로운 도전을 함께할 기회에 언제나 열려 있습니다!**
 
-[![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com) 
-<br>
-Naver 메일: `rlarltjd721@naver.com`
+<p align="center">
+  [![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721) 
+  &nbsp;&nbsp;&nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com) 
+  &nbsp;&nbsp;&nbsp;
+  [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logoColor=white)](mailto:rlarltjd721@naver.com)
+</p>
