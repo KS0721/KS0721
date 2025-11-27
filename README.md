@@ -11,25 +11,41 @@
 ### 💡 프로그래밍 언어 및 플랫폼
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  <a href="https://kotlinlang.org/">
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  <a href="https://developer.android.com/">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+  </a>
 </p>
 
 ### 🤖 AI/LLM 활용 및 도구
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Gemini-7952B3?style=flat-square&logo=google&logoColor=white">
+  <a href="https://ai.google.dev/gemini-api/docs">
+    <img src="https://img.shields.io/badge/Gemini-7952B3?style=flat-square&logo=google&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ChatGPT-40A99E?style=flat-square&logo=openai&logoColor=white">
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/ChatGPT-40A99E?style=flat-square&logo=openai&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Claude-F68600?style=flat-square&logo=anthropic&logoColor=white">
+  <a href="https://www.anthropic.com/product/claude">
+    <img src="https://img.shields.io/badge/Claude-F68600?style=flat-square&logo=anthropic&logoColor=white">
+  </a>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <a href="https://www.figma.com/">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  </a>
 </p>
 
 ---
