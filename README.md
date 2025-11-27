@@ -52,4 +52,4 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com) &nbsp; kisong0721@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:kisong0721@gmail.com)
