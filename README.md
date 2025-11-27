@@ -54,6 +54,6 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/KS0721?style=social)](https://github.com/KS0721)
 
-<a href="mailto:kisong0721@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kisong0721@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
 </a>
