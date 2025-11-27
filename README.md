@@ -2,7 +2,7 @@
 
 ### 🚀 AI 기술을 활용하여 아이디어를 현실로 구현하는 개발자입니다.
 
-**Python** 및 **Kotlin** 기반의 Computer Vision 및 AI 프로젝트 경험을 바탕으로, 현재는 **Android 플랫폼**에서 LLM(대규모 언어 모델)을 접목한 모바일 앱 개발에 집중하고 있습니다. 사용자 경험 개선을 위해 **Figma** 디자인 툴과 **VS Code**를 활용하고 있습니다.
+**Python** 및 **Kotlin** 기반의 Computer Vision 및 AI 프로젝트 경험을 바탕으로, 현재는 **Android 플랫폼**에서 LLM(대규모 언어 모델)을 접목한 모바일 앱 개발에 집중하고 있습니다. 사용자 경험 개선을 위해 **Figma** 디자인 툴도 학습 중입니다.
 
 ---
 
@@ -21,8 +21,6 @@
 ### 🤖 AI/LLM 활용 및 도구
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Gemini-7952B3?style=flat-square&logo=google&logoColor=white">
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/ChatGPT-40A99E?style=flat-square&logo=openai&logoColor=white">
