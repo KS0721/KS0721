@@ -31,15 +31,15 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="https://ai.google.dev/gemini-api/docs">
+  <a href="https://gemini.google.com/">
     <img src="https://img.shields.io/badge/Gemini-7952B3?style=flat-square&logo=google&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="https://openai.com/">
+  <a href="https://chatgpt.com/">
     <img src="https://img.shields.io/badge/ChatGPT-40A99E?style=flat-square&logo=openai&logoColor=white">
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.anthropic.com/product/claude">
+  <a href="https://claude.ai/">
     <img src="https://img.shields.io/badge/Claude-F68600?style=flat-square&logo=anthropic&logoColor=white">
   </a>
   &nbsp;&nbsp;
