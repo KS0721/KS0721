@@ -56,7 +56,7 @@
 
 | 프로젝트명 | 요약 및 경험 내용 | 링크 |
 | :---: | :--- | :---: |
-| **Python-Face-Physiognomy-Analysis** | **MediaPipe와 OpenCV**를 활용하여 얼굴 특징점을 감지하고 **파이썬 GUI(Tkinter)** 환경에서 초/중/말년 운세를 분석하는 Computer Vision 학습 프로젝트입니다. **실시간 데이터 처리** 및 **규칙 기반 로직 구현** 경험을 쌓았습니다. | [저장소 바로가기](https://github.com/KS0721/Python-Face-Physiognomy-Analysis) |
+| **Python-Face-Physiognomy-Analysis** | **실시간 얼굴 특징점 분석 및 맞춤형 해설 시스템 구축 프로젝트.** MediaPipe와 OpenCV 기반으로 $\text{Tkinter}$ GUI 환경에서 운세 분석 서비스를 구현하여 **실시간 컴퓨터 비전 처리** 및 **데이터 기반 규칙 로직** 구현 역량을 확보했습니다. <br>✅ **핵심 기여:** 삼정/오악/기색 분석을 위한 **4단계 세분화 규칙 엔진** 설계, **실시간 데이터 처리** 및 **길흉 통합 맞춤형 해설** 제공. | [저장소 바로가기](https://github.com/KS0721/Python-Face-Physiognomy-Analysis) |
 
 ### 🚧 다음 작업 계획
 * **Android 앱 개발:** LLM(Gemini)을 활용하여 특정 기능을 수행하는 모바일 애플리케이션을 **Kotlin** 언어로 개발하고 있습니다.
