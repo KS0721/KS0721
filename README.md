@@ -50,7 +50,7 @@
 
 ---
 
-## 💻 현재 작업 중 (Current Focus)
+## 💻 프로젝트 포트폴리오
 
 ### ✨ 주요 프로젝트 경험
 
@@ -58,6 +58,7 @@
 | :---: | :--- | :---: |
 | **Gemini-PyQt-Chat-App** | **Gemini API와 PyQt5 기반의 데스크톱 AI 클라이언트 구축 프로젝트.** 모든 대화 기록을 **SQLite DB**에 저장하는 영속성 기능 및 9가지 모드를 지원하는 **다중 모드(Multi-Modal) UI** 구현.<br><br>**✅ 주요 구현 및 기여**<br>* 대화 기록 영속성을 위한 **SQLite DB 통합** 및 **기억 관리** 기능 설계.<br>* **이미지 분석**을 포함한 **9가지 모드** 전환(대화, 검색, 요약 등) 기능 구현.<br>* **UI/UX 개선:** 파일 업로드 영역의 동적 가시성 제어 및 `gemini.ui`를 활용한 GUI 로직 분리. | [Repo](https://github.com/KS0721/Gemini-PyQt-Chat-App) |
 | **Python-Face-Physiognomy-Analysis** | **실시간 얼굴 특징점 분석 및 맞춤형 해설 시스템 구축 프로젝트.** MediaPipe와 OpenCV 기반 $\text{Tkinter}$ GUI 환경에서 운세 분석 서비스 구현 및 **실시간 컴퓨터 비전 처리** 역량 확보.<br><br>**✅ 주요 구현 및 기여**<br>* 삼정/오악/기색 분석을 위한 **4단계 세분화 규칙 엔진** 설계.<br>* **실시간 데이터 처리** 및 **길흉 통합 맞춤형 해설** 동적 생성. | [Repo](https://github.com/KS0721/Python-Face-Physiognomy-Analysis) |
+| **AI-Tarot-Reading** | **Claude API와 Flask 기반의 AI 타로 점괘 웹 서비스.** 78장의 타로 카드(메이저 22장 + 마이너 56장)를 활용한 온라인 타로 리딩 서비스 구현.<br><br>**✅ 주요 구현 및 기여**<br>* **3D 플립 애니메이션**을 활용한 몰입감 있는 카드 선택 UI 구현.<br>* 질문 분석 기반 **최적 스프레드 추천** 및 **정/역방향 랜덤 배치** 로직 설계.<br>* **Claude API 연동**을 통한 맞춤형 AI 해석 및 심층 대화 기능 구현. | [Repo](https://github.com/KS0721/tarot-card-app) |
 
 ### 🚧 다음 작업 계획
 * **Android 앱 개발:** LLM(Gemini)을 활용하여 특정 기능을 수행하는 모바일 애플리케이션을 **Kotlin** 언어로 개발하고 있습니다.
